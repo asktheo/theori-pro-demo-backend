@@ -1,4 +1,4 @@
-package pro.theori.demo.skills;
+package pro.theori.demo.resume;
 
 import lombok.Data;
 import org.bson.types.ObjectId;
