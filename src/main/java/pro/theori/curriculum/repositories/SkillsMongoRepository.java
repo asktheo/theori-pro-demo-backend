@@ -1,8 +1,7 @@
-package pro.theori.demo.repositories;
+package pro.theori.curriculum.repositories;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
-import pro.theori.demo.skills.Skill;
-import pro.theori.demo.skills.SkillKategori;
+import pro.theori.curriculum.skills.Skill;
 
 import java.util.ArrayList;
 

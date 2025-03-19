@@ -1,15 +1,12 @@
-package pro.theori.demo.resume;
+package pro.theori.curriculum.resume;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-import pro.theori.demo.repositories.ResumeMongoRepository;
-import pro.theori.demo.repositories.SkillsMongoRepository;
+import pro.theori.curriculum.repositories.ResumeMongoRepository;
 
 import java.util.List;
-import java.util.concurrent.atomic.AtomicLong;
 
 
 @RestController

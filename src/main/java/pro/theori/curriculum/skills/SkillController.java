@@ -1,8 +1,8 @@
-package pro.theori.demo.skills;
+package pro.theori.curriculum.skills;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import pro.theori.demo.repositories.SkillsMongoRepository;
+import pro.theori.curriculum.repositories.SkillsMongoRepository;
 
 import java.util.List;
 import java.util.concurrent.atomic.AtomicLong;

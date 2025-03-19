@@ -1,4 +1,4 @@
-package pro.theori.demo.skills;
+package pro.theori.curriculum.skills;
 
 public enum SkillNiveau {
     KENDSKAB,

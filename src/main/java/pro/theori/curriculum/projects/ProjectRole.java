@@ -1,4 +1,4 @@
-package pro.theori.demo.projects;
+package pro.theori.curriculum.projects;
 
 import lombok.Data;
 

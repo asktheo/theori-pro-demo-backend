@@ -1,12 +1,10 @@
-package pro.theori.demo;
+package pro.theori.curriculum;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.junit4.SpringRunner;
-import pro.theori.demo.repositories.ResumeMongoRepository;
-import pro.theori.demo.resume.Resume;
-import pro.theori.demo.skills.Skill;
+import pro.theori.curriculum.repositories.ResumeMongoRepository;
+import pro.theori.curriculum.resume.Resume;
 
 import java.util.List;
 

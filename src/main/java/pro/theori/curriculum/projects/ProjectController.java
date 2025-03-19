@@ -1,11 +1,10 @@
-package pro.theori.demo.projects;
+package pro.theori.curriculum.projects;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-import pro.theori.demo.repositories.ProjectMongoRepository;
-import pro.theori.demo.resume.Resume;
+import pro.theori.curriculum.repositories.ProjectMongoRepository;
 
 import java.util.List;
 

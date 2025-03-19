@@ -1,4 +1,4 @@
-package pro.theori.demo.resume;
+package pro.theori.curriculum.resume;
 
 import lombok.Data;
 
